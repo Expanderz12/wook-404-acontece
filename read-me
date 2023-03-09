@@ -1,0 +1,7 @@
+echo "# wook-404-acontece" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Expanderz12/wook-404-acontece.git
+git push -u origin main
